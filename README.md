@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Giovani Michelini Nogueira, currently pursuing a Bachelor's degree in Physics at the University of São Paulo (USP). My academic journey has led me to delve into the fascinating realms of computer vision, data science, and neural networks. These fields have sparked my interest and passion, and I am committed to deepening my knowledge and expertise in these areas.
+I'm Giovani Michelini Nogueira, currently pursuing a Bachelor's degree in Physics at the University of São Paulo (USP). My academic journey has led me to delve into the fascinating realms of computer vision, data science, and neural networks. These fields have sparked my interest and passion, and I am committed to deepening my knowledge and expertise in these areas.
 
 ## Areas of Interest
 
